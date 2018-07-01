@@ -4,7 +4,9 @@
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <meta property="og:image" content={{ "/blog/assets/img/" | prepend: site.baseurl | append : page.img}} />
+       {% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{site.baseurl}}/{{ page.img }}" />
+{% endif %}
 
          <meta property="og:description" content="{{ page.subtitle }}" />
 	<link rel="shortcut icon" href="{{ "/blog/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
