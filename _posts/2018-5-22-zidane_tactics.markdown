@@ -3,7 +3,7 @@ layout: post
 title: জিদান ও তার ভবিষ্যৎ
 date: 2017-10-11 1:22:20 +0300
 description: Football legend and Madrid coach Zidane's future in real madrid. # Add post description (optional)
-header-img:  zidane.png # Add image post (optional)
+img: zidane.png # Add image post (optional)
 tags: [Football, Zidane, Real Madrid, France]
 ---
 
