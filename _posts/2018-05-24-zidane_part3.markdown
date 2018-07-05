@@ -1,7 +1,7 @@
 ---
 layout: post
 title: জিদান গেইম প্ল্যান এন্ড এক্সিকিউশানঃ(শেষ পর্ব)
-date: 2018-05-20 1:22:20 +0300
+date: 2018-05-24 1:22:20 +0300
 description: জিদান গেইম প্ল্যান  # Add post description (optional)
 img: bettoni.jpg # Add image post (optional)
 tags: [Football, Zidane, Real Madrid, Lippi, Tactics]
