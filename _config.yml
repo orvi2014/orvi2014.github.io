@@ -8,9 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://orvi2014.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Robat Das Orvi # add your name
+author: Orvi Das # add your name
 author-img: orvi.jpg # add your photo
-about-author: # add description
+about-author: Javascript,Python enthunistic| CA,HackerRank |Play Chess |Analyze Football | Hardcore Pink Floyd Fan &#x2665 &#x2665 &#x2665 &#x2665 # add description
 twitter: # add your Twitter handle
 facebook: dipodijontu # add your Facebook handle
 github: orvi2014 # add your Github handle
