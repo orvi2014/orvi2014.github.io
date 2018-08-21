@@ -1,7 +1,7 @@
 ---
 layout: post
 title: রোনালদোর একক নৈপুণ্যি কি স্পেনকে রুখে দিল পর্তুগাল?
-date: 2018-08-17 1:22:20 +0300
+date: 2018-07-17 1:22:20 +0300
 description: Tactical Analysis between portugal and spain # Add post description (optional)
 img: ron_wc_spain.jpg # Add image post (optional)
 tags: [Football,Tactics, portugal, spain, ronaldo]
