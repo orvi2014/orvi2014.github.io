@@ -1,6 +1,6 @@
 ---
 layout: post
-title: রিয়াল বনাম ফ্রাংকফ্রুট(৭-৩) ঠিক যে দিন সবাই মেনে নিয়েছিল মাদ্রিদের শ্রেষ্টত্বঃ
+title: রিয়াল বনাম ফ্রাংকফ্রুট(৭-৩) ঠিক যে দিন সবাই মেনে নিয়েছিল মাদ্রিদের শ্রেষ্টত্ব
 date: 2018-08-20 1:22:20
 description: Ziande Madrid Corner Tactics # Add post description (optional)
 img: real_1960.jpg # Add image post (optional)

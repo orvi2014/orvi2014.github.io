@@ -1,6 +1,6 @@
 ---
 layout: post
-title: বাবল সর্ট এলগোরিদমঃ
+title: বাবল সর্ট এলগোরিদম
 date: 2018-01-25 13:32:20 +0300
 description: Bubble sort algorithms and it's implementation in python. # Add post description (optional)
 img: algo.jpg # Add image post (optional)
@@ -63,7 +63,7 @@ tags: [Algorithms, Python, Sorting]
                 Num[i+1]= temp;  
             }  
         }  
-    } 
+    }
   </code>
 </pre>
 
@@ -91,7 +91,7 @@ tags: [Algorithms, Python, Sorting]
   </code>
 </pre>
 
-    
+
 
 # টাইম কমপ্লেক্সিটিঃ
 

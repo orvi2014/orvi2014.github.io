@@ -1,6 +1,6 @@
 ---
 layout: post
-title: লোপেতেগুই ট্যাকটিক্যাল এনালাইসিসঃ
+title: লোপেতেগুই ট্যাকটিক্যাল এনালাইসিস
 date: 2018-08-17 1:22:20 +0300
 description: Tactical Analysis of Lopetegui # Add post description (optional)
 img: lopetegui.png # Add image post (optional)

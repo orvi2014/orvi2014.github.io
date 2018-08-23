@@ -1,6 +1,6 @@
 ---
 layout: post
-title: রিয়াল মাদ্রিদের কর্নার ট্যাক্টিক্সঃ ভাগ্য নাকি অনুশীলন?
+title: রিয়াল মাদ্রিদের কর্নার ট্যাক্টিক্স (ভাগ্য নাকি অনুশীলন?)
 date: 2018-05-15 1:22:20 +0300
 description: Ziande Madrid Corner Tactics # Add post description (optional)
 img: corner-tactics-real-madrid.jpg # Add image post (optional)

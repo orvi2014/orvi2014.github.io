@@ -2,7 +2,7 @@
 layout: post
 title: পজেশনাল সিস্টেম কি এখনো তার আসল রুপে ফিরতে পেরেছে?
 date: 2018-07-21 1:22:20
-description: পজেশন সিস্টেম বর্ন্না # Add post description (optional)
+description: পজেশন সিস্টেমের বর্ণনা # Add post description (optional)
 img: possession.jpg # Add image post (optional)
 tags: [Football, Zidane, Real Madrid,Benzema, Tactics]
 ---
