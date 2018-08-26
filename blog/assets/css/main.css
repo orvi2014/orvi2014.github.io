@@ -98,6 +98,7 @@ pre {
  */
 a {
   background-color: transparent;
+  text-decoration: none;
   /* 1 */
   -webkit-text-decoration-skip: objects;
   /* 2 */
@@ -925,6 +926,8 @@ pre code {
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
+  border-bottom: 1px solid #000000;
+  border-bottom-style: dotted;
 }
 
 .content-box {
@@ -951,7 +954,6 @@ pre code {
 .contact .contact-title {
   position: relative;
   color: #333030;
-  font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
   text-transform: uppercase;
@@ -1338,6 +1340,16 @@ footer .copyright {
   }
 }
 
+.page-footer .page-tag a {
+  text-decoration: none;
+  font-size: 10px;
+  padding: 5px 10px;
+  margin:8px;
+  color: #263959;
+  text-transform: uppercase;
+  border: 1px solid #263959;
+}
+
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
   .content-box {
@@ -1366,3 +1378,45 @@ footer .copyright {
     font-size: 21px;
   }
 }
+
+.about .author-projects{
+  border-bottom: 1px solid #000000;
+  border-bottom-style: dotted;
+}
+
+.author-projects a{
+  position: relative;
+  color: #333030;
+  font-size: 20px;
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+ .projects {
+     align-items: center;
+     min-height: 100vh;
+     min-width: auto;
+     width:100%;
+   }
+.project-content{
+  list-style: inside square;
+  font-size: 20px;
+  background: white;
+  width: 500px;
+  margin: auto;
+  padding: 0;
+  box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.05);
+}
+.projects h1{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.project-content li {
+     border-bottom: 1px solid #efefef;
+     padding: 20px;
+   }
+.project-content li:last-child {
+     border-bottom: 0;
+   }
