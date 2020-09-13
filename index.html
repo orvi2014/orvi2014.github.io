@@ -1,17 +1,112 @@
 ---
-layout: main
+layout: default
 ---
-{% for post in site.posts %}
-<article class="post">
-  {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/blog/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %}
-  {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+
+<!-- <link
+  href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
+  rel="stylesheet"
+/>
+<link
+  rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+/>
+<style>
+
+</style> -->
+
+ <div class="second hero">
+  <a href="/football-list-view.html">
+    <img
+      
+      src="/blog/assets/img/football.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      alt=""
+    />
+    <!-- <div class="hero-description">
+      <h1 slot="header">Football</h1>
+      <p slot="content">personal development</p>
+    </div> -->
+  </a>
+</div>
+<div class="second hero">
+  <a href="/tech-list-view.html">
+    <img
+  
+      src="/blog/assets/img/tech.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      alt=""
+    />
+    <!-- <div class="hero-description">
+      <h1 slot="header">Football</h1>
+      <p slot="content">personal development</p>
+    </div> -->
+  </a>
+</div>
+<div class="second hero">
+  <a href="/story-list-view.html">
+    <img
+      src="/blog/assets/img/stories.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      alt=""
+    />
+  </a>
+</div>
+ <!-- <div class="second hero">
+  <div class="front">
+    <img
+      class="hero-profile-img"
+      src="/blog/assets/img/history.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      alt=""
+    />
   </div>
-</article>
-{% endfor %}
+
+  <div class="hero-description">
+    <h1 slot="header">History</h1>
+    <p slot="content">Information about civilization.</p>
+  </div>
+</div> -->
+<!-- <div class="second hero">
+  <div class="front"></div>
+  <img
+    class="hero-profile-img"
+    src="https://images.pexels.com/photos/134402/pexels-photo-134402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    alt=""
+  />
+  <div class="hero-description">
+    <h1 slot="header">Philosophy</h1>
+    <p slot="content">personal development</p>
+  </div>
+</div> -->
+<!-- <div class="second hero"> -->
+  <!-- <div class="front"></div> -->
+  <!-- <img
+    class="hero-profile-img"
+    src="https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    alt=""
+  /> -->
+<!-- <div class="hero-description">
+    <h1 slot="header">Philosophy</h1>
+    <p slot="content">personal development</p>
+  </div>
+</div> -->
+<!-- <div class="second hero">
+  <div class="front"></div>
+  <!-- <img
+    class="hero-profile-img"
+    src="https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    alt=""
+  /> -->
+<!-- <div class="hero-description">
+    <h1 slot="header">Philosophy</h1>
+    <p slot="content">personal development</p>
+  </div>
+</div>
+<div class="second hero">
+  <div class="front"></div>
+   <img
+    class="hero-profile-img"
+    src="https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    alt=""
+  /> -->
+<!-- <div class="hero-description">
+    <h1 slot="header">Philosophy</h1>
+    <p slot="content">personal development</p>
+  </div>
+</div> 
