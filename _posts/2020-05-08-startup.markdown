@@ -4,44 +4,45 @@ title: How is it like working in a startup?
 date: 2020-05-08 13:32:20 +0300
 description: The experience I got work in a startup. # Add post description (optional)
 img: startup.jpg # Add image post (optional)
-tags: [Startup, Productivity, Career]
+tags: [Startup, Productivity, Career, Tech]
 ---
-Whenever I talk with my friends, colleagues, new people who don't understand the startup concept, I used to get this question. 
+
+Whenever I talk with my friends, colleagues, new people who don't understand the startup concept, I used to get this question.
 
 - What does a startup do?
-- Why are they struggling so much? 
+- Why are they struggling so much?
 - How a startup is different from MNC?
 
 This writing is for them who want to join a startup, have a curiosity about how a startup works, and want to succeed there.
 
-Remember, there are only 25% odds chance that your startup career will be successful. You work heart and soul there still you may end up in the losing side. A startup has no right product in the market. A startup builds a hypothetical product based on its target market. If the market demand has been shifted, they need to iterate and every iteration brings burning. So, the more it iterates over a product, the more it becomes financially unstable. Eventually, it frustrates the developers as they are looking for immediate revenue and if they don't get it at the right time, they decide to leave. On the other hand, it's very challenging for the founders to find the right products at the right time because they don't find a suitable team combination & demand is shifting along with the time.  
+Remember, there are only 25% odds chance that your startup career will be successful. You work heart and soul there still you may end up in the losing side. A startup has no right product in the market. A startup builds a hypothetical product based on its target market. If the market demand has been shifted, they need to iterate and every iteration brings burning. So, the more it iterates over a product, the more it becomes financially unstable. Eventually, it frustrates the developers as they are looking for immediate revenue and if they don't get it at the right time, they decide to leave. On the other hand, it's very challenging for the founders to find the right products at the right time because they don't find a suitable team combination & demand is shifting along with the time.
 
-In the meantime, there are tons of structural issues in the startup. Founders usually focus on fast penetration in the market which brings chaos in the team. Eventually, you feel dizzy, stress, anxious & sick. Now the irony part is you have no one around you to share your feelings. You find it difficult to understand the process. In the worst case, you may not even find any process there. It may seem like to you that they are just going with the flow and have no clear vision. But this is not true at all. They have a vision, care everything but the priority is different here. The founders usually prioritize product over structure at the early stage.  
+In the meantime, there are tons of structural issues in the startup. Founders usually focus on fast penetration in the market which brings chaos in the team. Eventually, you feel dizzy, stress, anxious & sick. Now the irony part is you have no one around you to share your feelings. You find it difficult to understand the process. In the worst case, you may not even find any process there. It may seem like to you that they are just going with the flow and have no clear vision. But this is not true at all. They have a vision, care everything but the priority is different here. The founders usually prioritize product over structure at the early stage.
 
 In a startup, you have to assume that you need to adjust your role according to the demands of the team. Sometimes you have to play multiple roles for optimizing the cost. It's a very common strategy for the startup. You joined as a frontend developer, but when you leave you already have versatile knowledge about the backend, server management, a little bit QA, UX, in some cases you may end up in the managerial role. When you leave you are more like, "Jack of all trades, master of none".
 
-When you work in a startup, remember it won't be like another 9-5 job. It will be more than that. You have to work outside your work hour. It's not because you are less effective. It's because everyone around you consistently pushing you harder to go beyond your limit. Apart from, You have to constantly learn new things which do not belong to your domain. You find it difficult to set priorities in your daily life. Your work-life balance will not be maintained.  
+When you work in a startup, remember it won't be like another 9-5 job. It will be more than that. You have to work outside your work hour. It's not because you are less effective. It's because everyone around you consistently pushing you harder to go beyond your limit. Apart from, You have to constantly learn new things which do not belong to your domain. You find it difficult to set priorities in your daily life. Your work-life balance will not be maintained.
 
-If you are an early member of a startup, you won't find any culture at all which is frustrating for the freshers, in some cases, experience one also finds it troublesome to set the right culture for the team. As founders are busy with finding the right products, you are solely responsible to set the tone for the future members. The way you respond in a situation will be the mindset of the team.  
+If you are an early member of a startup, you won't find any culture at all which is frustrating for the freshers, in some cases, experience one also finds it troublesome to set the right culture for the team. As founders are busy with finding the right products, you are solely responsible to set the tone for the future members. The way you respond in a situation will be the mindset of the team.
 
 You may think if a startup is so much hard then why so many people deliberately work in a startup? Well, my friend here's the fun part of working in a startup. A startup is a high reward platform from founders to employees. Every startup is trying to create a brand, an image in the market. So, the more it creates images, the more people start knowing about you. In a startup, a mistake is acceptable unless you do the same mistake twice. You can showcase all your skill here. As because team size is very limited, you find some strong connections in your team. As because you and your teammate closely 24/7, they become your part of life eventually. And if your startup is clicked, BOOM. You are one step ahead of your friends and others. You create value for the next generation. It's an immense feeling when your product goes live and people start using it. Not everyone has that opportunity to create such an impact on society.
 
 So, you should join a startup only if:
 
-  - You are passionate about real-life problem-solving.
-  - You have great work ethics.
-  - You are a highly motivated person.
-  - You are comfortable working under the pressure. 
-  - You have no bias about technology.
-  - You are curious to know how a product life cycle begins.
-  - You are looking for rapid growth in your career.
+- You are passionate about real-life problem-solving.
+- You have great work ethics.
+- You are a highly motivated person.
+- You are comfortable working under the pressure.
+- You have no bias about technology.
+- You are curious to know how a product life cycle begins.
+- You are looking for rapid growth in your career.
 
 Don't join in a startup if you are:
 
-  - Egoistic.
-  - Looking for a higher salary.
-  - Looking for a better structure.
-  - Looking for stability. 
-  - Not fast-pace learner. 
+- Egoistic.
+- Looking for a higher salary.
+- Looking for a better structure.
+- Looking for stability.
+- Not fast-pace learner.
 
 Working in a startup is equally stressful and convivial. The day you launch your product & start getting revenue will be one of the best days of your life. It's something you won't ever forget. Founders usually trend the product as their child & you are the one who brings it to live. You have an equal right to get the same affection from the product.
